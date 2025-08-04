@@ -24,12 +24,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*(Insert images/gifs here to show your app in action)*
-
----
-
 ## 🧠 Learnings
 
 - Integration of Google's ARCore with Android
@@ -47,6 +41,4 @@
 - 📦 Exporting and saving AR scenes
 
 ---
-
-## 📂 Project Structure
 
